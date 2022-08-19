@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2></h2><br>
 
-<!--
-**kitanoyoru/kitanoyoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><strong><samp>「</samp></strong></p>
+   <p align="center">
+      <samp>
+         <em>Hello.</em>
+      </samp><br>
+   </p>
+   <p align="center">
+      <samp>
+         <a href="https://t.me/kitanoyoru" target="_blank">telegram</a> &#8226;
+         <a href="https://twitter.com/kitanoyoru_" target="_blank">twitter</a> &#8226;
+         <a href="https://leetcode.com/kitanoyoru_" target="_blank">leetcode</a>
+      </samp>
+   </p>
+<p align="right"><strong><samp>」</samp></strong></p>
