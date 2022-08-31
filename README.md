@@ -37,3 +37,33 @@
    <br>
 </p>
 
+<h2></h2><br>
+
+<p>
+   <samp>
+      <em>databases.</em>
+      <br>
+   </samp>
+   <br>
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+   <br>
+</p>
+
+
+<h2></h2><br>
+
+<p>
+   <samp>
+      <em>os.</em>
+      <br>
+   </samp>
+   <br>
+   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+   <br>
+</p>
+
+
+
