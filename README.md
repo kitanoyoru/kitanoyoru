@@ -24,7 +24,7 @@
 <h2></h2><br>
 <p>
    <samp>
-      <em>languages.</em>
+      <em>languages</em>
       <br>
    </samp>
    <br>
@@ -41,7 +41,7 @@
 
 <p>
    <samp>
-      <em>databases.</em>
+      <em>databases</em>
       <br>
    </samp>
    <br>
@@ -57,7 +57,7 @@
 
 <p>
    <samp>
-      <em>os.</em>
+      <em>os</em>
       <br>
    </samp>
    <br>
