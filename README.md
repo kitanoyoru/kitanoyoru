@@ -18,7 +18,7 @@
 <br>
 
 <details align="center">
-<summary><samp>extend</samp></summary>
+<summary><samp>expand</samp></summary>
    
 <!--- TECHNOLOGIES --->
 <h2></h2><br>
