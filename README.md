@@ -10,7 +10,8 @@
       <samp>
          <a href="https://t.me/kitanoyoru" target="_blank">telegram</a> &#8226;
          <a href="https://twitter.com/kitanoyoru_" target="_blank">twitter</a> &#8226;
-         <a href="https://leetcode.com/kitanoyoru_" target="_blank">leetcode</a>
+         <a href="https://leetcode.com/kitanoyoru_" target="_blank">leetcode</a> &#8226;
+         <a href="https://gitlab.com/kitanoyoru" target="_blank">gitlab</a>
       </samp>
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
@@ -32,7 +33,6 @@
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
    <br>
 </p>
