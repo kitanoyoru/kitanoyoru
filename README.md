@@ -14,6 +14,10 @@
          <a href="https://gitlab.com/kitanoyoru" target="_blank">gitlab</a>
       </samp>
    </p>
+   <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitanoyoru&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+      <img alt="kitanoyoru's activity graph" src="https://activity-graph.herokuapp.com/graph?username=kitanoyoru&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></img>
+   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
