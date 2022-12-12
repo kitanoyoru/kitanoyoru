@@ -9,9 +9,6 @@
          <a href="https://gitlab.com/kitanoyoru" target="_blank">gitlab</a>
       </samp>
    </p>
-   <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitanoyoru&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
